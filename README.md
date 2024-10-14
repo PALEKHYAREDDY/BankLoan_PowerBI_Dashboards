@@ -10,13 +10,13 @@ Key Performance Indicators (KPIs) Requirements:
 ## Dashboard 1: SUMMARY
 Good Loan v Bad Loan KPI’s
 
-**Good Loan: **                                       
+Good Loan:
 Good Loan Application Percentage                      
 Good Loan Applications                               
 Good Loan Funded Amount                               
 Good Loan Total Received Amount                       
 
-** Bad Loan:**
+Bad Loan:
 
 Bad Loan Application Percentage
 
